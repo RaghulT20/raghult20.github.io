@@ -23,7 +23,7 @@ progress::-webkit-progress-bar {
 
 progress::-webkit-progress-value {
   border-radius: 10px 0 0 10px;
-  background-image: linear-gradient(36deg, #d1fae5, #818cf8);
+  background-image: linear-gradient(36deg, #b3f4ff, #78eefd);
 }
 
 .section-headline {
